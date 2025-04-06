@@ -8,12 +8,12 @@ Aspiring entrepreneur | Tech + Business
 ### 🛠️ Tech Stack
 - 💻 Languages: Python, C++, HTML, CSS, SQL
 - 🧠 Specialization: AI, Data Engineering , Networking
+- 📊 DSA: Arrays, Linked Lists , Sorting Algorithms, Searching
 - 🛢️ Databases: MySQL, SQL
   
 ---
 
 ### 💼 Notable Projects
-- **Food Factory 🍔** – Restaurant website with Veg & Non-Veg options [HTML/CSS]
 - **Banking System 💳** – Python + FileHandling based system with authentication and transaction features
 - **Network Traffic Analyzer 🔍** – Detects malicious traffic, logs to SQL, uses anomaly detection
 - **Rock Paper Scissors Game ✊✋✌️** – Python project with datetime
