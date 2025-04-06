@@ -1,4 +1,4 @@
-## Hi there I'm Devanand Puzhakkool
+## Hi there 👋 I'm Devanand Puzhakkool
   
  Building real-world projects using Python, MySQL, and web technologies  
 Aspiring entrepreneur | Tech + Business  
