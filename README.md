@@ -27,6 +27,8 @@ Aspiring entrepreneur | Tech + Business
 
 > "Those who can imagine anything, can create the impossible." – Alan Turing
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByD3v&layout=compact&theme=tokyonight)
+
 Thanks for visiting! ⭐
 
 
