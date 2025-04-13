@@ -7,9 +7,6 @@ Aspiring entrepreneur | Tech + Business
 
 ### 🛠️ Tech Stack
 
-[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=CodeByD3v&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
-
-
 - 💻 Languages: Python, C++, HTML, CSS, SQL
 - 🧠 Specialization: AI, Data Engineering , Networking
 - 📊 DSA: Arrays, Linked Lists , Sorting Algorithms, Searching
@@ -26,6 +23,11 @@ Aspiring entrepreneur | Tech + Business
 
 ### GitHub Stats
 [![CodeByD3v's current streak](https://streak-stats.demolab.com/?user=CodeByD3v&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
+
+[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=CodeByD3v&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
+
 
 ---
 
