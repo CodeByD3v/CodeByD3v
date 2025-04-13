@@ -7,7 +7,7 @@ Aspiring entrepreneur | Tech + Business
 
 ### 🛠️ Tech Stack
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByD3v&layout=compact&theme=tokyonight)
+[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=CodeByD3v&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 
 - 💻 Languages: Python, C++, HTML, CSS, SQL
