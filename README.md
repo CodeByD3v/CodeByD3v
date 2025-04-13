@@ -10,7 +10,7 @@ Aspiring entrepreneur | Tech + Business
 - 🧠 Specialization: AI, Data Engineering , Networking
 - 📊 DSA: Arrays, Linked Lists , Sorting Algorithms, Searching
 - 🛢️ Databases: MySQL, SQL
-  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByD3v&layout=compact&theme=tokyonight)
 ---
 
 ### 💼 Notable Projects
@@ -26,8 +26,6 @@ Aspiring entrepreneur | Tech + Business
 - Email: pdevanand910@gmail.com
 
 > "Those who can imagine anything, can create the impossible." – Alan Turing
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByD3v&layout=compact&theme=tokyonight)
 
 Thanks for visiting! ⭐
 
