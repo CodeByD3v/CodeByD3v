@@ -6,11 +6,15 @@ Aspiring entrepreneur | Tech + Business
 ---
 
 ### 🛠️ Tech Stack
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByD3v&layout=compact&theme=tokyonight)
+
+
 - 💻 Languages: Python, C++, HTML, CSS, SQL
 - 🧠 Specialization: AI, Data Engineering , Networking
 - 📊 DSA: Arrays, Linked Lists , Sorting Algorithms, Searching
 - 🛢️ Databases: MySQL, SQL
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByD3v&layout=compact&theme=tokyonight)
+
 ---
 
 ### 💼 Notable Projects
