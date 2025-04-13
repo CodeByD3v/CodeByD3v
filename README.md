@@ -24,6 +24,11 @@ Aspiring entrepreneur | Tech + Business
 
 ---
 
+### GitHub Stats
+[![CodeByD3v's current streak](https://streak-stats.demolab.com/?user=CodeByD3v&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
+---
+
 ### 📫 Let's Connect!
 - LinkedIn: www.linkedin.com/in/devanand-puzhakkool
 - Portfolio: Coming Soon
