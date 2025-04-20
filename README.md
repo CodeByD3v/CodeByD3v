@@ -27,7 +27,8 @@
 
 ## 🧠 Research & Case Studies
 
-- **Swiggy Case Study** – In-depth analysis of Swiggy's business model, operational strategy, and data-driven decision-making processes
+- **Platinum Customer Restaurant & Loyalty Analysis (Swiggy-based)** – SQL query analysis of Platinum customers'ordering behavior, identifying top-performing restaurants,popular cuisines, and loyal customers.
+
 
 ---
 ## 📊 GitHub Stats
