@@ -1,46 +1,49 @@
-## Hi there 👋 I'm Devanand Puzhakkool
-  
- Building real-world projects using Python, MySQL, and web technologies  
-Aspiring entrepreneur | Tech + Business  
+# 👋 Hi there, I'm Devanand Puzhakkool
+
+🚀 Building real-world projects using Python, MySQL, and web technologies  
+💡 Aspiring Entrepreneur | Tech + Business
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-- 💻 Languages: Python, C++, HTML, CSS, SQL
-- 🧠 Specialization: AI, Data Engineering , Networking
-- 📊 DSA: Arrays, Linked Lists , Sorting Algorithms, Searching
-- 🛢️ Databases: MySQL, SQL
-
----
-
-### 💼 Notable Projects
-- **Banking System 💳** – Python + FileHandling based system with authentication and transaction features
-- **Network Traffic Analyzer 🔍** – Detects malicious traffic, logs to SQL, uses anomaly detection
-- **Rock Paper Scissors Game ✊✋✌️** – Python project with datetime
+**💻 Languages:** Python, C++, HTML, CSS, SQL  
+**🧠 Specialization:** AI, Data Engineering, Networking  
+**📊 DSA Skills:** Arrays, Linked Lists, Sorting Algorithms, Searching  
+**🛢️ Databases:** MySQL, SQL  
+**📈 Data Visualization:** Pandas, Matplotlib (in progress)
 
 ---
 
-### GitHub Stats
-[![CodeByD3v's current streak](https://streak-stats.demolab.com/?user=CodeByD3v&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+## 💼 Notable Projects
 
-
-[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=CodeByD3v&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
-
-
+- **💳 Banking System** – Python + File Handling based system with authentication and transaction features  
+- **🔍 Network Traffic Analyzer** – Detects malicious traffic, logs to SQL, uses anomaly detection  
+- **✊✋✌️ Rock Paper Scissors Game** – Python project with datetime  
+- **🌤️ Weather App** – A Python-based system that fetches and displays weather data using an API  
 
 ---
 
-### 📫 Let's Connect!
-- LinkedIn: www.linkedin.com/in/devanand-puzhakkool
-- Portfolio: Coming Soon
-- Email: pdevanand910@gmail.com
+## 📊 GitHub Stats
 
-> "Those who can imagine anything, can create the impossible." – Alan Turing
+<!-- You can add GitHub streak and top languages using GitHub Readme Stats -->
 
-Thanks for visiting! ⭐
+![CodeByD3v's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CodeByD3v&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByD3v&layout=compact&theme=tokyonight&hide_border=true)
 
+---
 
+## 📫 Let's Connect!
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/devanand-puzhakkool)  
+- 🌐 Portfolio: *Coming Soon*  
+- 📧 Email: pdevanand910@gmail.com  
+
+---
+
+> "Those who can imagine anything, can create the impossible." – **Alan Turing**
+
+⭐ Thanks for visiting my profile!
 <!--
 **AuthurShelby/AuthurShelby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
