@@ -24,6 +24,13 @@
 
 ---
 
+---
+
+## 🧠 Research & Case Studies
+
+- **Swiggy Case Study** – In-depth analysis of Swiggy's business model, operational strategy, and data-driven decision-making processes
+
+---
 ## 📊 GitHub Stats
 
 <!-- You can add GitHub streak and top languages using GitHub Readme Stats -->
