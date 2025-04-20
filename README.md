@@ -22,7 +22,6 @@
 - **✊✋✌️ Rock Paper Scissors Game** – Python project with datetime  
 - **🌤️ Weather App** – A Python-based system that fetches and displays weather data using an API  
 
----
 
 ---
 
