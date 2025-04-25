@@ -19,7 +19,6 @@
 
 - **💳 Banking System** – Python + File Handling based system with authentication and transaction features  
 - **🔍 Network Traffic Analyzer** – Detects malicious traffic, logs to SQL, uses anomaly detection  
-- **✊✋✌️ Rock Paper Scissors Game** – Python project with datetime  
 - **🌤️ Weather App** – A Python-based system that fetches and displays weather data using an API  
 
 
