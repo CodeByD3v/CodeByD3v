@@ -37,6 +37,7 @@
 
 ![CodeByD3v's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeByD3v&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByD3v&layout=compact&theme=tokyonight&hide_border=true)
+![CodeByD3v's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeByD3v&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs,issues)
 
 ---
 
