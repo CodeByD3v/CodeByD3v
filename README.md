@@ -35,7 +35,7 @@
 
 <!-- You can add GitHub streak and top languages using GitHub Readme Stats -->
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=CodeByD3v&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CodeByD3v&theme=tokyonight&hide_border=true&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByD3v&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
