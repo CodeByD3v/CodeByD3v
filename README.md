@@ -7,7 +7,7 @@
 
 ## 🛠️ Tech Stack
 
-**💻 Languages:** Python, C++, HTML, CSS, SQL  
+**💻 Languages:** Python, HTML, CSS, SQL  
 **🧠 Specialization:** AI, Data Engineering, Networking  
 **📊 DSA Skills:** Arrays, Linked Lists, Sorting Algorithms, Searching  
 **🛢️ Databases:** MySQL, SQL  
@@ -34,7 +34,6 @@
 
 <!-- You can add GitHub streak and top languages using GitHub Readme Stats -->
 
-![GitHub Streak](https://github-readme-streak-stats.azurewebsites.net/?user=CodeByD3v&theme=tokyonight&hide_border=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeByD3v&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByD3v&layout=compact&theme=tokyonight&hide_border=true)
 
