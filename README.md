@@ -35,7 +35,6 @@
 <!-- You can add GitHub streak and top languages using GitHub Readme Stats -->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeByD3v&show_icons=true&theme=tokyonight&hide_border=true)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CodyByD3v"></img>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByD3v&layout=compact&theme=tokyonight&hide_border=true)
 
 
