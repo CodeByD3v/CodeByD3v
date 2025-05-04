@@ -34,8 +34,13 @@
 
 <!-- You can add GitHub streak and top languages using GitHub Readme Stats -->
 
+<!-- GitHub Stats -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeByD3v&show_icons=true&theme=tokyonight&hide_border=true)
-<img src="https://streak-stats.demolab.com?user=CodeByD3v&theme=radical&hide_border=true&background=0D1117"/>
+
+<!-- GitHub Streak -->
+<img src="https://streak-stats.demolab.com?user=CodeByD3v&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+<!-- Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByD3v&layout=compact&theme=tokyonight&hide_border=true)
 
 
