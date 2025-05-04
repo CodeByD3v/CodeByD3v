@@ -35,8 +35,10 @@
 <!-- GitHub Streak -->
 <img src="https://streak-stats.demolab.com?user=CodeByD3v&theme=tokyonight&hide_border=true"/>
 <!-- GitHub Stats -->
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeByD3v&show_icons=true&theme=tokyonight&hide_border=true)
 <!-- Top Languages -->
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByD3v&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
