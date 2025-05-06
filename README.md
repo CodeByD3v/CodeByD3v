@@ -54,6 +54,7 @@
 > "Those who can imagine anything, can create the impossible." – **Alan Turing**
 
 ⭐ Thanks for visiting my profile!
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 <!--
 **AuthurShelby/AuthurShelby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
