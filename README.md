@@ -11,7 +11,7 @@
 **🧠 Specialization:** AI, Data Engineering, Networking  
 **📊 DSA Skills:** Arrays, Linked Lists, Sorting Algorithms, Searching  
 **🛢️ Databases:** MySQL, SQL  
-**📈 Data Visualization:** Pandas, Matplotlib (in progress)
+**📈 Data Manipulation/Analysis/Visualization:** Pandas, Numpy , Matplotlib (in progress)
 
 ---
 
