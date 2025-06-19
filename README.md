@@ -28,6 +28,7 @@
 
 - **Platinum Customer Restaurant & Loyalty Analysis (Swiggy-based)** – SQL query analysis of Platinum customers'ordering behavior, identifying top-performing restaurants,popular cuisines, and loyal customers.
 
+- **Zomato Profitability Case Study** – This case study analyzes Zomato data to identify niche restaurants that received 5 or fewer orders but generated high profits, helping uncover exclusive and premium-performing partners.
 
 ---
 ## 📊 GitHub Stats
