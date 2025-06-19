@@ -1,46 +1,52 @@
-# 👋 Hi there, I'm Devanand Puzhakkool
+# 👋 Hey there, I'm Devanand Puzhakkool
 
-🚀 Building real-world projects using Python, MySQL, and web technologies  
-💡 Aspiring Entrepreneur | Tech + Business
+🚀 Passionate about building real-world solutions using Python, MySQL, and modern web technologies  
+💡 Aspiring Entrepreneur | Blending Tech with Business  
 
 ---
 
 ## 🛠️ Tech Stack
 
-**💻 Languages:** Python, JAVA ,HTML, CSS, SQL  
-**🧠 Specialization:** AI, Data Engineering, Networking  
-**📊 DSA Skills:** Arrays, Linked Lists, Sorting Algorithms, Searching  
-**🛢️ Databases:** MySQL, SQL  
-**📈 Data Manipulation/Analysis/Visualization:** Pandas, Numpy , Matplotlib (in progress)
+**💻 Languages:** Python · Java · HTML · CSS · SQL  
+**🧠 Specialization:** AI · Data Engineering · Networking  
+**📊 DSA Proficiency:** Arrays · Linked Lists · Sorting & Searching Algorithms  
+**🛢️ Databases:** MySQL · SQL  
+**📈 Data Analysis & Visualization:** Pandas · NumPy · Matplotlib *(in progress)*
 
 ---
 
-## 💼 Notable Projects
+## 💼 Projects
 
-**💳 Banking System** – Python + File Handling based system with authentication and transaction features  
-**🔍 Network Traffic Analyzer** – Detects malicious traffic, logs to SQL, uses anomaly detection  
-**🌤️ Weather App** – A Python-based system that fetches and displays weather data using an API  
+### 💳 Banking System  
+A Python-based banking application featuring user authentication, balance tracking, file-based transactions, and secure operations.
 
+### 🔍 Network Traffic Analyzer  
+Detects malicious network activities using anomaly detection, stores logs in an SQL database, and classifies threats effectively.
+
+### 🌤️ Weather App  
+Fetches real-time weather data from an API and displays it with a clean Python interface.
+
+---
+
+## 📚 Research & Case Studies
+
+### 📌 Swiggy-Based Platinum Customer & Loyalty Analysis  
+Analyzed customer behavior using SQL to identify top-performing restaurants, popular cuisines, and loyal users.
+
+### 💰 Zomato Profitability Case Study  
+Uncovered high-earning, low-order niche restaurants using SQL analytics — highlighting exclusive, premium partners.
 
 ---
 
-## 🧠 Research & Case Studies
-
-- **Platinum Customer Restaurant & Loyalty Analysis (Swiggy-based)** – SQL query analysis of Platinum customers'ordering behavior, identifying top-performing restaurants,popular cuisines, and loyal customers.
-
-- **Zomato Profitability Case Study** – This case study analyzes Zomato data to identify niche restaurants that received 5 or fewer orders but generated high profits, helping uncover exclusive and premium-performing partners.
-
----
 ## 📊 GitHub Stats
 
-<!-- GitHub Streak -->
-<img src="https://streak-stats.demolab.com?user=CodeByD3v&theme=tokyonight&hide_border=true"/>
-<!-- GitHub Stats -->
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeByD3v&show_icons=true&theme=tokyonight&hide_border=true)
-<!-- Top Languages -->
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByD3v&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=CodeByD3v&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeByD3v&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByD3v&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
 
 ---
 
@@ -48,25 +54,12 @@
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/devanand-puzhakkool)  
 - 🌐 Portfolio: *Coming Soon*  
-- 📧 Email: pdevanand910@gmail.com  
+- 📧 Email: [pdevanand910@gmail.com](mailto:pdevanand910@gmail.com)  
 
 ---
 
-> "Those who can imagine anything, can create the impossible." – **Alan Turing**
+> *"Those who can imagine anything, can create the impossible."* – **Alan Turing**
 
-⭐ Thanks for visiting my profile!
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
-<!--
-**AuthurShelby/AuthurShelby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
