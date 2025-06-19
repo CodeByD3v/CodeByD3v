@@ -17,9 +17,9 @@
 
 ## 💼 Notable Projects
 
-- **💳 Banking System** – Python + File Handling based system with authentication and transaction features  
-- **🔍 Network Traffic Analyzer** – Detects malicious traffic, logs to SQL, uses anomaly detection  
-- **🌤️ Weather App** – A Python-based system that fetches and displays weather data using an API  
+**💳 Banking System** – Python + File Handling based system with authentication and transaction features  
+**🔍 Network Traffic Analyzer** – Detects malicious traffic, logs to SQL, uses anomaly detection  
+**🌤️ Weather App** – A Python-based system that fetches and displays weather data using an API  
 
 
 ---
