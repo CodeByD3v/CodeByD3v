@@ -7,7 +7,7 @@
 
 ## 🛠️ Tech Stack
 
-**💻 Languages:** Python, HTML, CSS, SQL  
+**💻 Languages:** Python, JAVA ,HTML, CSS, SQL  
 **🧠 Specialization:** AI, Data Engineering, Networking  
 **📊 DSA Skills:** Arrays, Linked Lists, Sorting Algorithms, Searching  
 **🛢️ Databases:** MySQL, SQL  
