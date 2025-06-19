@@ -84,20 +84,6 @@ Uncovered high-earning, low-order niche restaurants using SQL analytics — high
 
 ---
 
-## 🐍 Snake Animation (Fix Broken Image If Needed)
-
-![Snake animation](https://github.com/CodeByD3v/CodeByD3v/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 🧙 Meme of the Day
-
-<p align="center">
-  <img src="./path/to/your/meme.png" width="250" alt="Let ChatGPT do it meme"/>
-</p>
-
----
-
 > *"Those who can imagine anything, can create the impossible."* – **Alan Turing**
 
 <p align="center">
