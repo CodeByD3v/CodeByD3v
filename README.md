@@ -41,7 +41,7 @@ Uncovered high-earning, low-order niche restaurants using SQL analytics — high
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=CodeByD3v&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=CodeByD3v&theme=flat&hide_border=true" alt="GitHub Streak"/>
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=CodeByD3v&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats"/>
   <br><br>
