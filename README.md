@@ -45,7 +45,7 @@ Uncovered high-earning, low-order niche restaurants using SQL analytics — high
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=CodeByD3v&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByD3v&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByD3v&layout=pie&theme=tokyonight&hide_border=true" alt="Top Languages Pie Chart"/>
 </p>
 
 ---
