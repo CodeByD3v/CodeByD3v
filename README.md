@@ -54,7 +54,7 @@ Uncovered high-earning, low-order niche restaurants using SQL analytics — high
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" alt="VsCode"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Google_Colaboratory_SVG_Logo.svg" width="40" alt="Google Colab" />
+<!--   <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Google_Colaboratory_SVG_Logo.svg" width="40" alt="Google Colab" /> -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="40" alt="ChatGPT" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML"/>
