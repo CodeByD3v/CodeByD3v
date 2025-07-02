@@ -62,7 +62,8 @@ Uncovered high-earning, low-order niche restaurants using SQL analytics — high
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" alt="Pandas"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" alt="NumPy"/>
-  <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="80">
+  <img src="https://techicons.dev/icons/matplotlib.svg" alt="Matplotlib logo" width="64" height="64">
+  <img src="https://assets.worldvectorlogo.com/logos/seaborn-1.svg" alt="Seaborn logo" width="64" height="64">
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="120">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40" alt="Jupyter"/>
