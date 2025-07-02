@@ -9,8 +9,7 @@
 
 **💻 Languages:** Python · Java · HTML · CSS · SQL  
 **🧠 Specialization:** AI · Data Engineering · Networking  
-**📊 DSA Proficiency:** Arrays · Linked Lists · Sorting & Searching Algorithms · Graphs 
-
+**📊 DSA Proficiency:** Arrays · Linked Lists · Sorting & Searching Algorithms · Graphs  
 **🛢️ Databases:** MySQL · SQL  
 **📈 Data Analysis & Visualization:** Pandas · NumPy · Matplotlib · Seaborn
 
