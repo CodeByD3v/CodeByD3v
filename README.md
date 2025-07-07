@@ -3,7 +3,9 @@
   I'm <span style="color:#0AF0F0;">Devanand Puzhakkool</span>
 </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hey+there!;Welcome+to+my+GitHub+playground!;Exploring+data,+code,+and+creativity.&font=Fira+Code&duration=4000&pause=1000&color=0AF0F0&center=true&width=900&height=100)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hey+there!;Welcome+to+my+GitHub+playground!;Exploring+data,+code,+and+creativity.&font=Fira+Code&duration=4000&pause=1000&color=0AF0F0&center=true&width=900&height=100" alt="Typing SVG" />
+</p>
 
 🚀 Passionate about building real-world solutions using Python, MySQL, and modern web technologies  
 💡 Aspiring Entrepreneur | Blending Tech with Business  
