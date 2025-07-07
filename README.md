@@ -1,4 +1,4 @@
-# <h1 align="center">
+<h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> 
   I'm <span style="color:#0AF0F0;">Devanand Puzhakkool</span>
 </h1>
