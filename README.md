@@ -2,7 +2,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> 
   I'm <span style="color:#0AF0F0;">Devanand Puzhakkool</span>
 </h1>
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hey+there!;Welcome+to+my+GitHub+playground!;Exploring+data,+code,+and+creativity.&font=Fira+Code&duration=4000&pause=1000&color=0AF0F0&center=true&width=800&height=100)
 
 🚀 Passionate about building real-world solutions using Python, MySQL, and modern web technologies  
