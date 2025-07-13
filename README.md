@@ -35,13 +35,13 @@ A collection of real-world ML solutions using regression.
 
 ### 💳 Banking System  
 A terminal-based banking application with login, balance tracking, and transaction recording.  
-[![View Project](https://img.shields.io/badge/View_Project-%2300C9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeByD3v/Banking-System)
+[![View Project](https://img.shields.io/badge/View_Project-%2300C9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeByD3v/PyBank)
 
 ---
 
 ### 🔍 Network Traffic Analyzer  
 Analyzes and flags suspicious network activity using basic anomaly detection methods.  
-[![View Project](https://img.shields.io/badge/View_Project-%2300C9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeByD3v/Network-Traffic-Analyzer)
+[![View Project](https://img.shields.io/badge/View_Project-%2300C9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeByD3v/Network-Analysis)
 
 ---
 
