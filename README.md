@@ -28,7 +28,7 @@
 ## 💼 Projects
 
 ### 🤖 Machine Learning Projects  
-A collection of real-world ML solutions using regression, classification, and ensemble methods.  
+A collection of real-world ML solutions using regression.  
 [![View Project](https://img.shields.io/badge/View_Project-%2300C9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeByD3v/ml-projects)
 
 ---
