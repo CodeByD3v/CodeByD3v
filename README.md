@@ -14,7 +14,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 ```python
 class DevanandPuzhakkool:
@@ -31,9 +31,9 @@ class DevanandPuzhakkool:
 
 me = DevanandPuzhakkool()
 me.say_hi()
+```
 
-
-## 🛠️ Tech Constellation
+## Tech Constellation
 
 <table align="center">
   <tr>
