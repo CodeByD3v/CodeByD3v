@@ -5,16 +5,11 @@
    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&multiline=true&width=600&height=175&lines=+Building+Tomorrow's+Solutions;+Data+Scientist+%7C+ML+Engineer;+Turning+Ideas+Into+Reality" alt="Typing Animation" />
 </div>
 
+<<div>
 <img align="left" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 <img align="right" alt="Coding Nebula" width="350" src="https://media.giphy.com/media/LmNwrBhfV4QA58v5oL/giphy.gif" />
-
-
-
-
-
-
-
+</div>
 
 ---
 ## About Me
@@ -42,95 +37,93 @@ me.say_hi()
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 1000px;">
 
     <!-- Languages -->
-    <div style="width: 100px; padding: 10px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50">
-      <div><b>Python</b></div>
-    </div>
+  <div style="width: 100px; padding: 10px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50">
+<div><b>Python</b></div>
+</div>
     
-    <div style="width: 100px; padding: 10px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+<div style="width: 100px; padding: 10px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50">
       <div><b>Java</b></div>
     </div>
 
-    <div style="width: 100px; padding: 10px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+<div style="width: 100px; padding: 10px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50">
       <div><b>JavaScript</b></div>
     </div>
 
-    <div style="width: 100px; padding: 10px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+<div style="width: 100px; padding: 10px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50">
       <div><b>HTML5</b></div>
     </div>
 
-    <div style="width: 100px; padding: 10px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+<div style="width: 100px; padding: 10px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50">
       <div><b>CSS3</b></div>
     </div>
 
     <!-- Libraries & Frameworks -->
-    <div style="width: 100px; padding: 10px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+<div style="width: 100px; padding: 10px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="50">
       <div><b>Pandas</b></div>
     </div>
 
-    <div style="width: 100px; padding: 10px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+<div style="width: 100px; padding: 10px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="50">
       <div><b>NumPy</b></div>
     </div>
 
-    <div style="width: 100px; padding: 10px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+<div style="width: 100px; padding: 10px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="50">
       <div><b>TensorFlow</b></div>
     </div>
 
 
     <!-- Tools & Platforms -->
-    <div style="width: 100px; padding: 10px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+<div style="width: 100px; padding: 10px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50">
       <div><b>MySQL</b></div>
     </div>
 
-    <div style="width: 100px; padding: 10px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+<div style="width: 100px; padding: 10px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50">
       <div><b>Git</b></div>
     </div>
 
-    <div style="width: 100px; padding: 10px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+<div style="width: 100px; padding: 10px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50">
       <div><b>GitHub</b></div>
     </div>
 
-    <div style="width: 100px; padding: 10px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+<div style="width: 100px; padding: 10px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50">
       <div><b>VS Code</b></div>
     </div>
 
 
     <!-- Extras -->
-    <div style="width: 100px; padding: 10px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+<div style="width: 100px; padding: 10px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
       <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="50">
       <div><b>ChatGPT</b></div>
     </div>
 
-    <div style="width: 100px; padding: 10px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+<div style="width: 100px; padding: 10px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="50">
       <div><b>Postman</b></div>
     </div>
 
-    <div style="width: 100px; padding: 10px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+<div style="width: 100px; padding: 10px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" width="50">
       <div><b>Kaggle</b></div>
     </div>
 
-    <div style="width: 100px; padding: 10px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+<div style="width: 100px; padding: 10px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
       <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="50">
       <div><b>Jupyter</b></div>
     </div>
 
   </div>
 </div>
-
-
 
 ## Projects
 
@@ -189,7 +182,9 @@ me.say_hi()
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
+
 ---
+
 ## Vision Statement
 
 > *"Those who can imagine anything, can create the impossible."* – **Alan Turing**
