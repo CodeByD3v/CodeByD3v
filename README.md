@@ -1,21 +1,21 @@
-
-
 <div align="center">
+
+  <!-- Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Devanand%20Puzhakkool&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Crafting%20the%20Future%20with%20Code&descAlignY=60&descSize=18"/>
-   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&multiline=true&width=600&height=175&lines=+Building+Tomorrow's+Solutions;+Data+Scientist+%7C+ML+Engineer;+Turning+Ideas+Into+Reality" alt="Typing Animation" />
-</div>
 
-<<div>
-<img align="left" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+  <!-- Typing Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+Tomorrow's+Solutions;Data+Scientist+%7C+ML+Engineer;Turning+Ideas+Into+Reality" alt="Typing Animation" />
 
-<img align="right" alt="Coding Nebula" width="350" src="https://media.giphy.com/media/LmNwrBhfV4QA58v5oL/giphy.gif" />
+  <!-- GIFs or static image -->
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding" />
+  <img src="https://media.giphy.com/media/LmNwrBhfV4QA58v5oL/giphy.gif" width="350" alt="Coding Nebula" />
+
 </div>
 
 ---
-## About Me
 
-<div>
-	
+## 👨‍💻 About Me
+
 ```python
 class DevanandPuzhakkool:
     def __init__(self):
@@ -25,14 +25,13 @@ class DevanandPuzhakkool:
         self.passion = ["AI/ML", "Data Engineering", "Innovation"]
         self.current_focus = "Building scalable ML solutions"
         self.fun_fact = "I debug with coffee and deploy with dreams"
-    
+
     def say_hi(self):
-        print("Thanks for visiting! Let's build something amazing together ")
+        print("Thanks for visiting! Let's build something amazing together.")
 
 me = DevanandPuzhakkool()
 me.say_hi()
-```
-</div>
+
 
 ## 🛠️ Tech Constellation
 
