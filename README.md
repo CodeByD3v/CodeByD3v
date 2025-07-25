@@ -36,7 +36,6 @@ me.say_hi()
 <div align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 1000px;">
 
-    <!-- Languages -->
   <div style="width: 100px; padding: 10px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50">
 <div><b>Python</b></div>
@@ -62,7 +61,6 @@ me.say_hi()
       <div><b>CSS3</b></div>
     </div>
 
-    <!-- Libraries & Frameworks -->
 <div style="width: 100px; padding: 10px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="50">
       <div><b>Pandas</b></div>
@@ -78,8 +76,6 @@ me.say_hi()
       <div><b>TensorFlow</b></div>
     </div>
 
-
-    <!-- Tools & Platforms -->
 <div style="width: 100px; padding: 10px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50">
       <div><b>MySQL</b></div>
@@ -101,7 +97,6 @@ me.say_hi()
     </div>
 
 
-    <!-- Extras -->
 <div style="width: 100px; padding: 10px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
       <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="50">
       <div><b>ChatGPT</b></div>
