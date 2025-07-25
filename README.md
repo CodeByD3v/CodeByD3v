@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Devanand%20Puzhakkool&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Crafting%20the%20Future%20with%20Code&descAlignY=60&descSize=18"/>
 
   <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+Tomorrow's+Solutions;Data+Scientist+%7C+ML+Engineer;Turning+Ideas+Into+Reality" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&multiline=true&width=600&height=200&lines=Building+Tomorrow's+Solutions;Data+Scientist+%7C+ML+Engineer;Turning+Ideas+Into+Reality" alt="Typing Animation" />
 
   <!-- GIFs or static image -->
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding" />
