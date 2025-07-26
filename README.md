@@ -155,7 +155,9 @@ me.say_hi()
     <img src="https://img.shields.io/badge/PROFILE-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
   </a>
 </p>
+
 ---
+
 <div align="center">
  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=Those%20who%20can%20imagine%20anything,%20can%20create%20the%20impossible&author=Alan%20Turing" />
   <img src="https://readme-jokes.vercel.app/api?theme=dracula&hideBorder" alt="Joke Card" />
