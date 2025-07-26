@@ -151,8 +151,10 @@ me.say_hi()
   <a href="https://www.linkedin.com/in/devanand-puzhakkool" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://x.com/Devanan91022139?t=1VeXJSPomKsj87FpjKblqQ&s=09" target="_blank">
+    <img src="https://img.shields.io/badge/PROFILE-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
+  </a>
 </p>
-
 ---
 <div align="center">
  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=Those%20who%20can%20imagine%20anything,%20can%20create%20the%20impossible&author=Alan%20Turing" />
