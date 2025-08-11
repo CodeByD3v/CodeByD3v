@@ -45,11 +45,10 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white" alt="NumPy" />
+  
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
 
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"alt="Matplotlib"/> 
-
-<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge"
-alt="Seaborn"/> 
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge" alt="Seaborn"/> 
 
  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
   
