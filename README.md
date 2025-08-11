@@ -86,42 +86,42 @@ me.say_hi()
 ## Projects
 
 <p align="center">
-
-  <b>Machine Learning</b><br/>
-  <a href="https://github.com/CodeByD3v/ml-projects" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/CodeByD3v/ml-projects" target="_blank" rel="noopener noreferrer" style="text-decoration:none; display:inline-block; margin: 0 20px; text-align:center; width: 280px;">
     <img
       src="https://github-readme-stats.vercel.app/api/pin/?username=CodeByD3v&repo=ml-projects&theme=dracula&hide_border=true"
       alt="ML Projects Repo"
       width="280"
+      style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);"
     />
+    <br />
+<strong style="font-size: 18px; color: #fff; display: block; margin-top: 10px;">Machine Learning</strong>
+  </a>
+
+<br> <br> <br>
+
+  <a href="https://github.com/CodeByD3v/Network-Analysis" target="_blank" rel="noopener noreferrer" style="text-decoration:none; display:inline-block; margin: 0 20px; text-align:center; width: 280px;">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=CodeByD3v&repo=Network-Analysis&theme=dracula&hide_border=true"
+      alt="Network Analysis Repo"
+      width="280"
+      style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);"
+    />
+    <br />
+<strong style="font-size: 18px; color: #fff; display: block; margin-top: 10px;">Network Tracing</strong>
+  </a>
+
+  <a href="https://github.com/CodeByD3v/Weather-App" target="_blank" rel="noopener noreferrer" style="text-decoration:none; display:inline-block; margin: 0 20px; text-align:center; width: 280px;">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=CodeByD3v&repo=Weather-App&theme=dracula&hide_border=true"
+      alt="Weather App Repo"
+      width="280"
+      style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);"
+    />
+    <br />
+<strong style="font-size: 18px; color: #fff; display: block; margin-top: 10px;">Weather App</strong>
   </a>
 </p>
-<p align="center">
-  <table border="0" style="border-collapse: separate; border-spacing: 30px 0;">
-    <tr>
-      <td border = "None" align="center" style="padding: 0 15px;">
-        <b>Network Tracing</b><br/>
-        <a href="https://github.com/CodeByD3v/Network-Analysis" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
-          <img
-				style="border =None;"
-            src="https://github-readme-stats.vercel.app/api/pin/?username=CodeByD3v&repo=Network-Analysis&theme=dracula&hide_border=true"
-            alt="Network Analysis Repo"
-            width="280"
-          />
-        </a>
-      </td>
-      <td align="center" style="padding: 0 15px;">
-        <b>Weather App</b><br/>
-        <a href="https://github.com/CodeByD3v/Weather-App" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
-          <img
-            src="https://github-readme-stats.vercel.app/api/pin/?username=CodeByD3v&repo=Weather-App&theme=dracula&hide_border=true"
-            alt="Weather App Repo"
-            width="280"
-          />
-        </a>
-      </td>
-    </tr>
-  </table>
+
 
 ---
 
@@ -161,36 +161,34 @@ me.say_hi()
 
 ## GitHub Stats
 
-<div align="center" style="max-width: 700px; margin: 40px auto; padding: 0 15px;">
+<div align="center" style="max-width:700px; margin:40px auto; padding:0 15px;">
 
-  <!-- Main Stats Row (GitHub Stats + Streak) -->
-  <div style="display: flex; justify-content: center; gap: 12px; flex-wrap: nowrap;">
-
-   <img
+  <!-- Stats & Streak side by side -->
+  <div style="display:flex; justify-content:center; gap:12px; flex-wrap:wrap;">
+    <img
       src="https://github-readme-stats.vercel.app/api?username=CodeByD3v&show_icons=true&theme=react&bg_color=0D1117&title_color=4ECDC4&icon_color=667eea&text_color=ffffff&border_color=30363d&hide_border=false&border_radius=15&custom_title=GitHub%20Performance%20Metrics"
       alt="GitHub Stats"
-      style="border-radius: 15px; box-shadow: 0 6px 15px rgba(0,0,0,0.15); width: 48%; max-width: 320px; object-fit: contain;"
+      style="border-radius:15px; box-shadow:0 6px 15px rgba(0,0,0,0.15); width:320px; max-width:48%; object-fit:contain;"
     />
-
-   <img
+    <img
       src="https://streak-stats.demolab.com?user=CodeByD3v&theme=react&background=0D1117&border=30363d&stroke=4ECDC4&ring=667eea&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=4ECDC4&sideLabels=4ECDC4&dates=ffffff&border_radius=15"
       alt="GitHub Streak"
-      style="border-radius: 15px; box-shadow: 0 6px 15px rgba(0,0,0,0.15); width: 48%; max-width: 320px; object-fit: contain;"
+      style="border-radius:15px; box-shadow:0 6px 15px rgba(0,0,0,0.15); width:320px; max-width:48%; object-fit:contain;"
     />
-
   </div>
 
-  <!-- Top Languages Pie Chart -->
-  <div style="margin-top: 36px;">
+  <!-- Top languages donut chart -->
+  <div style="margin-top:36px;">
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByD3v&layout=donut&theme=react&bg_color=0D1117&title_color=4ECDC4&icon_color=667eea&text_color=ffffff&border_color=30363d&hide_border=false&border_radius=15&langs_count=8&custom_title=Technology%20Distribution"
       alt="Top Languages Pie Chart"
       width="320"
-      style="border-radius: 15px; box-shadow: 0 6px 15px rgba(0,0,0,0.15); display: block; margin-left: auto; margin-right: auto;"
+      style="border-radius:15px; box-shadow:0 6px 15px rgba(0,0,0,0.15); display:block; margin:0 auto;"
     />
   </div>
 
 </div>
+
 
 ## GitHub Trophies
 
