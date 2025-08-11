@@ -88,39 +88,38 @@ me.say_hi()
 <div align="center" style="max-width: 900px; margin: 30px auto; padding: 0 15px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
 
   <!-- Main Project - full width -->
- <div style="max-width: 320px; text-align: center; background-color: #2c3e50; border-radius: 12px; padding: 15px; box-shadow: 0 6px 15px rgba(0,0,0,0.3); margin: 0 auto 32px auto;">
-  <h3 style="color: white; margin-bottom: 12px; font-weight: 600;">Machine Learning</h3>
-  <a href="https://github.com/CodeByD3v/ml-projects" target="_blank" rel="noopener noreferrer" style="text-decoration: none; display: inline-block; border-radius: 8px; overflow: hidden; box-shadow: none; transition: transform 0.3s ease;">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=CodeByD3v&repo=ml-projects&theme=dracula&hide_border=true"
-      alt="ML Projects Repo"
-      style="border-radius: 8px; display: block; width: 100%;"
-    />
-  </a>
-</div>
-
+  <div style="max-width: 320px; text-align: center; background-color: #2c3e50; border-radius: 12px; padding: 15px; box-shadow: 0 6px 15px rgba(0,0,0,0.3); margin: 0 auto 32px auto;">
+    <h3 style="color: white; margin-bottom: 12px; font-weight: 600;">Machine Learning</h3>
+    <a href="https://github.com/CodeByD3v/ml-projects" target="_blank" rel="noopener noreferrer" style="text-decoration: none; display: inline-block; border-radius: 8px; overflow: hidden; box-shadow: none; transition: transform 0.3s ease;">
+      <img
+        src="https://github-readme-stats.vercel.app/api/pin/?username=CodeByD3v&repo=ml-projects&theme=dracula&hide_border=true"
+        alt="ML Projects Repo"
+        style="border-radius: 8px; display: block; width: 100%; max-width: 280px; height: auto;"
+      />
+    </a>
+  </div>
 
   <!-- Two smaller projects side by side -->
   <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
 
-<div style="flex: 1 1 280px; max-width: 320px; text-align: center; background-color: #2c3e50; border-radius: 12px; padding: 15px; box-shadow: 0 6px 15px rgba(0,0,0,0.3);">
+   <div style="flex: 1 1 280px; max-width: 320px; text-align: center; background-color: #2c3e50; border-radius: 12px; padding: 15px; box-shadow: 0 6px 15px rgba(0,0,0,0.3);">
       <h3 style="color: white; margin-bottom: 12px; font-weight: 600;">Network Tracing</h3>
       <a href="https://github.com/CodeByD3v/Network-Analysis" target="_blank" rel="noopener noreferrer" style="text-decoration: none; display: inline-block; border-radius: 8px; overflow: hidden; box-shadow: none; transition: transform 0.3s ease;">
         <img
           src="https://github-readme-stats.vercel.app/api/pin/?username=CodeByD3v&repo=Network-Analysis&theme=dracula&hide_border=true"
           alt="Network Analysis Repo"
-          style="border-radius: 8px; display: block; width: 100%;"
+          style="border-radius: 8px; display: block; width: 100%; max-width: 280px; height: auto;"
         />
       </a>
     </div>
 
-<div style="flex: 1 1 280px; max-width: 320px; text-align: center; background-color: #2c3e50; border-radius: 12px; padding: 15px; box-shadow: 0 6px 15px rgba(0,0,0,0.3);">
+   <div style="flex: 1 1 280px; max-width: 320px; text-align: center; background-color: #2c3e50; border-radius: 12px; padding: 15px; box-shadow: 0 6px 15px rgba(0,0,0,0.3);">
       <h3 style="color: white; margin-bottom: 12px; font-weight: 600;">Weather App</h3>
       <a href="https://github.com/CodeByD3v/Weather-App" target="_blank" rel="noopener noreferrer" style="text-decoration: none; display: inline-block; border-radius: 8px; overflow: hidden; box-shadow: none; transition: transform 0.3s ease;">
         <img
           src="https://github-readme-stats.vercel.app/api/pin/?username=CodeByD3v&repo=Weather-App&theme=dracula&hide_border=true"
           alt="Weather App Repo"
-          style="border-radius: 8px; display: block; width: 100%;"
+          style="border-radius: 8px; display: block; width: 100%; max-width: 280px; height: auto;"
         />
       </a>
     </div>
@@ -128,12 +127,39 @@ me.say_hi()
   </div>
 </div>
 
-
 ---
 
 ## Research & Data-Driven Insights
 
-<div align="center" style="margin-top: 15px; overflow-x: auto;"> <table style="border-collapse: separate; border-spacing: 0; border-radius: 10px; overflow: hidden; min-width: 600px;"> <thead> <tr style="background: linear-gradient(135deg, #4ECDC4, #44A08D); color: white; font-weight: 600;"> <th style="padding: 14px 20px;">Project</th> <th style="padding: 14px 20px;">Objective</th> <th style="padding: 14px 20px;">Key Discovery</th> <th style="padding: 14px 20px;">Business Impact</th> </tr> </thead> <tbody> <tr style="background-color: rgba(78, 205, 196, 0.1);"> <td style="padding: 14px 20px; font-weight: 600;">Swiggy Analytics</td> <td style="padding: 14px 20px;">Identify high-value customer segments</td> <td style="padding: 14px 20px;">Top 5% users drive 50% of revenue</td> <td style="padding: 14px 20px; color: #27AE60; font-weight: 600;">+30% retention</td> </tr> <tr style="background-color: rgba(68, 160, 141, 0.1);"> <td style="padding: 14px 20px; font-weight: 600;">Zomato Profitability</td> <td style="padding: 14px 20px;">Optimize restaurant partnerships</td> <td style="padding: 14px 20px;">Micro-cuisines yield 4x higher margins</td> <td style="padding: 14px 20px; color: #27AE60; font-weight: 600;">+20% expansion</td> </tr> </tbody> </table> </div>
+<div align="center" style="margin-top: 15px; overflow-x: auto; border-radius: 10px; border: 1px solid #4ECDC4;">
+  <table style="border-collapse: separate; border-spacing: 0; min-width: 600px; width: 100%; border-radius: 10px;">
+
+   <thead>
+      <tr style="background-color: #4ECDC4; color: white; font-weight: 600;">
+        <th style="padding: 14px 20px; text-align: left;">Project</th>
+        <th style="padding: 14px 20px; text-align: left;">Objective</th>
+        <th style="padding: 14px 20px; text-align: left;">Key Discovery</th>
+        <th style="padding: 14px 20px; text-align: left;">Business Impact</th>
+      </tr>
+    </thead>
+
+   <tbody>
+      <tr style="background-color: #D0F0EC;">
+        <td style="padding: 14px 20px; font-weight: 600;">Swiggy Analytics</td>
+        <td style="padding: 14px 20px;">Identify high-value customer segments</td>
+        <td style="padding: 14px 20px;">Top 5% users drive 50% of revenue</td>
+        <td style="padding: 14px 20px; color: #27AE60; font-weight: 600;">+30% retention</td>
+      </tr>
+      <tr style="background-color: #B0D6CC;">
+        <td style="padding: 14px 20px; font-weight: 600;">Zomato Profitability</td>
+        <td style="padding: 14px 20px;">Optimize restaurant partnerships</td>
+        <td style="padding: 14px 20px;">Micro-cuisines yield 4x higher margins</td>
+        <td style="padding: 14px 20px; color: #27AE60; font-weight: 600;">+20% expansion</td>
+      </tr>
+    </tbody>
+
+  </table>
+</div>
 
 ---
 
@@ -141,16 +167,16 @@ me.say_hi()
 
 <div align="center" style="max-width: 700px; margin: 40px auto; padding: 0 15px;">
 
-  <!-- Main Stats Row (squashed) -->
+  <!-- Main Stats Row (GitHub Stats + Streak) -->
   <div style="display: flex; justify-content: center; gap: 12px; flex-wrap: nowrap;">
 
-<img
+   <img
       src="https://github-readme-stats.vercel.app/api?username=CodeByD3v&show_icons=true&theme=react&bg_color=0D1117&title_color=4ECDC4&icon_color=667eea&text_color=ffffff&border_color=30363d&hide_border=false&border_radius=15&custom_title=GitHub%20Performance%20Metrics"
       alt="GitHub Stats"
       style="border-radius: 15px; box-shadow: 0 6px 15px rgba(0,0,0,0.15); width: 48%; max-width: 320px; object-fit: contain;"
     />
 
-<img
+   <img
       src="https://streak-stats.demolab.com?user=CodeByD3v&theme=react&background=0D1117&border=30363d&stroke=4ECDC4&ring=667eea&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=4ECDC4&sideLabels=4ECDC4&dates=ffffff&border_radius=15"
       alt="GitHub Streak"
       style="border-radius: 15px; box-shadow: 0 6px 15px rgba(0,0,0,0.15); width: 48%; max-width: 320px; object-fit: contain;"
@@ -158,27 +184,17 @@ me.say_hi()
 
   </div>
 
-  <!-- Combined Language Distribution & Activity Graph Row -->
-  <div style="display: flex; justify-content: center; gap: 24px; flex-wrap: wrap; margin-top: 36px;">
-
-<img
+  <!-- Top Languages Pie Chart -->
+  <div style="margin-top: 36px;">
+    <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByD3v&layout=donut&theme=react&bg_color=0D1117&title_color=4ECDC4&icon_color=667eea&text_color=ffffff&border_color=30363d&hide_border=false&border_radius=15&langs_count=8&custom_title=Technology%20Distribution"
       alt="Top Languages Pie Chart"
       width="320"
-      style="border-radius: 15px; box-shadow: 0 6px 15px rgba(0,0,0,0.15);"
+      style="border-radius: 15px; box-shadow: 0 6px 15px rgba(0,0,0,0.15); display: block; margin-left: auto; margin-right: auto;"
     />
-
-<img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=CodeByD3v&theme=tokyo-night&hide_border=true&border_radius=10"
-      alt="GitHub Activity Graph"
-      style="flex-grow: 1; min-width: 280px; max-width: 320px; border-radius: 10px; "
-    />
-
   </div>
 
 </div>
-
-
 
 ## GitHub Trophies
 
