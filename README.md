@@ -86,37 +86,31 @@ me.say_hi()
 ## Projects
 
 <p align="center">
-  <a href="https://github.com/CodeByD3v/ml-projects" target="_blank" rel="noopener noreferrer" style="text-decoration:none; display:inline-block; margin: 0 20px; text-align:center; width: 280px;">
+  <a href="https://github.com/CodeByD3v/ml-projects" target="_blank" rel="noopener noreferrer" style="text-decoration:none; display:inline-block; margin: 0 20px; width: 280px;">
     <img
       src="https://github-readme-stats.vercel.app/api/pin/?username=CodeByD3v&repo=ml-projects&theme=dracula&hide_border=true"
       alt="ML Projects Repo"
       width="280"
       style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);"
     />
-    <br />
-<strong style="font-size: 18px; color: #fff; display: block; margin-top: 10px;">Machine Learning</strong>
   </a>
 
-  <a href="https://github.com/CodeByD3v/Network-Analysis" target="_blank" rel="noopener noreferrer" style="text-decoration:none; display:inline-block; margin: 0 20px; text-align:center; width: 280px;">
+  <a href="https://github.com/CodeByD3v/Network-Analysis" target="_blank" rel="noopener noreferrer" style="text-decoration:none; display:inline-block; margin: 0 20px; width: 280px;">
     <img
       src="https://github-readme-stats.vercel.app/api/pin/?username=CodeByD3v&repo=Network-Analysis&theme=dracula&hide_border=true"
       alt="Network Analysis Repo"
       width="280"
       style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);"
     />
-    <br />
-<strong style="font-size: 18px; color: #fff; display: block; margin-top: 10px;">Network Tracing</strong>
   </a>
 
-  <a href="https://github.com/CodeByD3v/Weather-App" target="_blank" rel="noopener noreferrer" style="text-decoration:none; display:inline-block; margin: 0 20px; text-align:center; width: 280px;">
+  <a href="https://github.com/CodeByD3v/Weather-App" target="_blank" rel="noopener noreferrer" style="text-decoration:none; display:inline-block; margin: 0 20px; width: 280px;">
     <img
       src="https://github-readme-stats.vercel.app/api/pin/?username=CodeByD3v&repo=Weather-App&theme=dracula&hide_border=true"
       alt="Weather App Repo"
       width="280"
       style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);"
     />
-    <br />
-<strong style="font-size: 18px; color: #fff; display: block; margin-top: 10px;">Weather App</strong>
   </a>
 </p>
 
