@@ -85,47 +85,43 @@ me.say_hi()
 
 ## Projects
 
-<div align="center" style="max-width: 900px; margin: 30px auto; padding: 0 15px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+<p align="center">
 
-  <!-- Main Project - full width -->
-  <div style="max-width: 320px; text-align: center; background-color: #2c3e50; border-radius: 12px; padding: 15px; box-shadow: 0 6px 15px rgba(0,0,0,0.3); margin: 0 auto 32px auto;">
-    <h3 style="color: white; margin-bottom: 12px; font-weight: 600;">Machine Learning</h3>
-    <a href="https://github.com/CodeByD3v/ml-projects" target="_blank" rel="noopener noreferrer" style="text-decoration: none; display: inline-block; border-radius: 8px; overflow: hidden; box-shadow: none; transition: transform 0.3s ease;">
-      <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=CodeByD3v&repo=ml-projects&theme=dracula&hide_border=true"
-        alt="ML Projects Repo"
-        style="border-radius: 8px; display: block; width: 100%; max-width: 280px; height: auto;"
-      />
-    </a>
-  </div>
-
-  <!-- Two smaller projects side by side -->
-  <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
-
-   <div style="flex: 1 1 280px; max-width: 320px; text-align: center; background-color: #2c3e50; border-radius: 12px; padding: 15px; box-shadow: 0 6px 15px rgba(0,0,0,0.3);">
-      <h3 style="color: white; margin-bottom: 12px; font-weight: 600;">Network Tracing</h3>
-      <a href="https://github.com/CodeByD3v/Network-Analysis" target="_blank" rel="noopener noreferrer" style="text-decoration: none; display: inline-block; border-radius: 8px; overflow: hidden; box-shadow: none; transition: transform 0.3s ease;">
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=CodeByD3v&repo=Network-Analysis&theme=dracula&hide_border=true"
-          alt="Network Analysis Repo"
-          style="border-radius: 8px; display: block; width: 100%; max-width: 280px; height: auto;"
-        />
-      </a>
-    </div>
-
-   <div style="flex: 1 1 280px; max-width: 320px; text-align: center; background-color: #2c3e50; border-radius: 12px; padding: 15px; box-shadow: 0 6px 15px rgba(0,0,0,0.3);">
-      <h3 style="color: white; margin-bottom: 12px; font-weight: 600;">Weather App</h3>
-      <a href="https://github.com/CodeByD3v/Weather-App" target="_blank" rel="noopener noreferrer" style="text-decoration: none; display: inline-block; border-radius: 8px; overflow: hidden; box-shadow: none; transition: transform 0.3s ease;">
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=CodeByD3v&repo=Weather-App&theme=dracula&hide_border=true"
-          alt="Weather App Repo"
-          style="border-radius: 8px; display: block; width: 100%; max-width: 280px; height: auto;"
-        />
-      </a>
-    </div>
-
-  </div>
-</div>
+  <b>Machine Learning</b><br/>
+  <a href="https://github.com/CodeByD3v/ml-projects" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=CodeByD3v&repo=ml-projects&theme=dracula&hide_border=true"
+      alt="ML Projects Repo"
+      width="280"
+    />
+  </a>
+</p>
+<p align="center">
+  <table border="0" style="border-collapse: separate; border-spacing: 30px 0;">
+    <tr>
+      <td border = "None" align="center" style="padding: 0 15px;">
+        <b>Network Tracing</b><br/>
+        <a href="https://github.com/CodeByD3v/Network-Analysis" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
+          <img
+				style="border =None;"
+            src="https://github-readme-stats.vercel.app/api/pin/?username=CodeByD3v&repo=Network-Analysis&theme=dracula&hide_border=true"
+            alt="Network Analysis Repo"
+            width="280"
+          />
+        </a>
+      </td>
+      <td align="center" style="padding: 0 15px;">
+        <b>Weather App</b><br/>
+        <a href="https://github.com/CodeByD3v/Weather-App" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
+          <img
+            src="https://github-readme-stats.vercel.app/api/pin/?username=CodeByD3v&repo=Weather-App&theme=dracula&hide_border=true"
+            alt="Weather App Repo"
+            width="280"
+          />
+        </a>
+      </td>
+    </tr>
+  </table>
 
 ---
 
