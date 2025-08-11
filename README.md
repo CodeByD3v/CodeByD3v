@@ -97,8 +97,6 @@ me.say_hi()
 <strong style="font-size: 18px; color: #fff; display: block; margin-top: 10px;">Machine Learning</strong>
   </a>
 
-<br> <br> <br>
-
   <a href="https://github.com/CodeByD3v/Network-Analysis" target="_blank" rel="noopener noreferrer" style="text-decoration:none; display:inline-block; margin: 0 20px; text-align:center; width: 280px;">
     <img
       src="https://github-readme-stats.vercel.app/api/pin/?username=CodeByD3v&repo=Network-Analysis&theme=dracula&hide_border=true"
@@ -121,7 +119,6 @@ me.say_hi()
 <strong style="font-size: 18px; color: #fff; display: block; margin-top: 10px;">Weather App</strong>
   </a>
 </p>
-
 
 ---
 
