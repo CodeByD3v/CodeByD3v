@@ -1,5 +1,7 @@
-<div align="center"> <!-- Dynamic Header with Particles --> <img src="https://capsule-render.vercel.app/api?type=venom&color=0:667eea,50:764ba2,100:f093fb&height=300&section=header&text=Devanand%20Puzhakkool&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Architect%20of%20Digital%20Innovation&descAlignY=65&descSize=20&stroke=ffffff&strokeWidth=2"/>
- <!-- Animated Coding Visuals --> 
+<div align="center">
+  <!-- Dynamic Header with Particles -->
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:667eea,50:764ba2,100:f093fb&height=300&section=header&text=Devanand%20Puzhakkool&fontSize=50&fontColor=auto&animation=fadeIn&fontAlignY=40&desc=Architect%20of%20Digital%20Innovation&descAlignY=65&descSize=20"/>
+  <!-- Animated Coding Visuals --> 
 </div>
 
 
