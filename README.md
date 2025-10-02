@@ -207,4 +207,5 @@ me.say_hi()
 
 ---
 
-<div align="center" style="margin-top: 25px;"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=Those%20who%20can%20imagine%20anything,%20can%20create%20the%20impossible&author=Alan%20Turing" alt="Inspirational Quote" style="max-width: 700px;" /> <img src="https://readme-jokes.vercel.app/api?theme=dracula&hideBorder" alt="Joke Card" style="margin-top: 12px;" /> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" alt="Footer" style="margin-top: 30px;" /> </div> 
+<div align="center" style="margin-top: 25px;"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=A%20computer%20program%20is%20said%20to%20learn%20from%20experience%20E%20with%20respect%20to%20some%20task%20T%20and%20some%20performance%20measure%20P,%20if%20its%20performance%20on%20T,%20as%20measured%20by%20P,%20improves%20with%20experience%20E.&author=Tom%20Mitchell" alt="Inspirational Quote" style="max-width: 700px;" />
+ <img src="https://readme-jokes.vercel.app/api?theme=dracula&hideBorder" alt="Joke Card" style="margin-top: 12px;" /> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" alt="Footer" style="margin-top: 30px;" /> </div> 
