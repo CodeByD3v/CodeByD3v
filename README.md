@@ -90,7 +90,7 @@ me.say_hi()
 <p align="center">
   <a href="https://github.com/CodeByD3v/ml-projects" target="_blank" rel="noopener noreferrer" style="text-decoration:none; display:inline-block; margin: 0 20px; width: 280px;">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=CodeByD3v&repo=ml-projects&theme=dracula&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=CodeByD3v&repo=ml-projects&theme=dracula&hide_border=true&cache_seconds=7200"
       alt="ML Projects Repo"
       width="280"
       style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);"
